@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The Mnasnet ImageNet-1K pretrained model ([implentation](https://github.com/chinakook/Mnasnet.MXNet)).The imagenet is not the standard (ILSRVRC 2012),which extract from imagenet 11k and split it to 95:5 (train:val).
+The Mnasnet ImageNet-1K pretrained model ([implentation](https://github.com/chinakook/Mnasnet.MXNet)).The ImageNet-1k is not the standard (ILSRVRC 2012),which extract from imagenet 11k and split it to 95:5 (train:val).
 
 | Model   | Top-1 | Top-5 |
 | ------- | ----- | ----- |
