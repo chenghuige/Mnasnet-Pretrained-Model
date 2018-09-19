@@ -17,7 +17,7 @@ We provide pretrained MnasNet models on ImageNet-1K, The ImageNet-1k is not the 
 
 ### Reference
 
-[Mnasnet.MXNet](https://github.com/chinakook/Mnasnet.MXNet)
+[chinakook/Mnasnet.MXNet](https://github.com/chinakook/Mnasnet.MXNet)
 
 ### Related Projects
 
