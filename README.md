@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a Mxnet implementation of Google's MnasNet. For details, please read the following papers:
+This is a Mxnet implementation of Google's MnasNet. For details, please read the following paper:
 
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf)
 
