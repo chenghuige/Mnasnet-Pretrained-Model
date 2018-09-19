@@ -18,3 +18,9 @@ We provide pretrained MobileNet models on ImageNet-1K, The ImageNet-1k is not th
 ### Reference
 
 [Mnasnet.MXNet](https://github.com/chinakook/Mnasnet.MXNet)
+
+### Related Projects
+
+- [MnasNet-PyTorch](https://github.com/AnjieZheng/MnasNet-PyTorch)
+- [MnasNet-caffe](https://github.com/LiJianfei06/MnasNet-caffe)
+- [MNasNet-Keras-Tensorflow](https://github.com/Shathe/MNasNet-Keras-Tensorflow)
