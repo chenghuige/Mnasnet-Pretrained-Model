@@ -6,7 +6,7 @@ This is a Mxnet implementation of Google's MnasNet. For details, please read the
 
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf)
 
-### Pretrained Models on ImageNet
+### Pretrained Model on ImageNet
 
 We provide pretrained MnasNet models on ImageNet-1K, The ImageNet-1k is not the standard ILSRVRC 2012 ,which was extracted from imagenet 11k and split it to 95:5 (train:val).
 
