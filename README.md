@@ -8,7 +8,7 @@ This is a Mxnet implementation of Google's MnasNet. For details, please read the
 
 ### Pretrained Model on ImageNet
 
-#### Update !!! (2018.11.25)
+### Update !!! (2018.11.25)
 
 We will release pretrained MnasNet model on standard ILSRVRC 2012, and we achieved the official accuracy.
 
