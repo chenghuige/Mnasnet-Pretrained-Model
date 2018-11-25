@@ -8,12 +8,16 @@ This is a Mxnet implementation of Google's MnasNet. For details, please read the
 
 ### Pretrained Model on ImageNet
 
-We provide pretrained MnasNet model on ImageNet-1K, The ImageNet-1k is not the standard ILSRVRC 2012 ,which was extracted from imagenet 11k and split it to 95:5 (train:val).
+#### Update !!! (2018.11.25)
+
+We will release pretrained MnasNet model on standard ILSRVRC 2012, and we achieved the official accuracy.
 
 | Network    | Top-1   |   Top-5   |
   :------:   | :----:  |   :-----:  
-| Mnasnet    |  0.720  |   0.905   |
+| Mnasnet Official    |  74.0%  |   91.78%   |
+| Mnasnet Ours        |  73.5%  |   91.15%   |
 
+You can easily deploy the model with TVM deep learning framework on Android, iOS, Linux or Winows etc.
 
 ### Reference
 
