@@ -8,14 +8,14 @@ This is a Mxnet implementation of Google's MnasNet. For details, please read the
 
 ### Pretrained Model on ImageNet
 
-### Update !!! (2018.11.25)
+### Update (2018.11.25)
 
 We will release pretrained MnasNet model on standard ILSRVRC 2012, and we achieved the official accuracy.
 
 | Network    | Top-1   |   Top-5   |
   :------:   | :----:  |   :-----:  
 | Mnasnet Official    |  74.0%  |   91.78%   |
-| Mnasnet Ours        |  73.5%  |   91.15%   |
+| Mnasnet Ours        |  73.6%  |   91.52%   |
 
 You can easily deploy the model with TVM deep learning framework on Android, iOS, Linux or Winows etc.
 
