@@ -15,7 +15,7 @@ We will release pretrained MnasNet model on standard ILSRVRC 2012, and we achiev
 | Network    | Top-1   |   Top-5   |
   :------:   | :----:  |   :-----:  
 | Mnasnet Official    |  74.0%  |   91.78%   |
-| Mnasnet Ours        |  73.6%  |   91.52%   |
+| Mnasnet Ours        |  **73.6%**  |   **91.52%**   |
 
 You can easily deploy the model with TVM deep learning framework on Android, iOS, Linux or Winows etc.
 
