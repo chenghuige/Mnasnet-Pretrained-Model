@@ -10,7 +10,7 @@ This is a Mxnet implementation of Google's MnasNet. For details, please read the
 
 ### Update (2018.11.25)
 
-We will release pretrained MnasNet model on standard ILSRVRC 2012, and we achieved the official accuracy.
+We have released MnasNet model on standard ILSRVRC 2012, and we approach official accuracy.
 
 | Network    | Top-1   |   Top-5   |
   :------:   | :----:  |   :-----:  
