@@ -6,7 +6,12 @@ This is a Mxnet implementation of Google's MnasNet. For details, please read the
 
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf)
 
-### Pretrained Model on ImageNet
+
+### Pretrained Model
+
++ [Caffe](https://pan.baidu.com/s/1FOmVKyiYcNWqkT9X5YcyLQ)
++ [Mxnet](https://pan.baidu.com/s/1MyZM2VpKMItBFunWMTnt6Q)
+
 
 ### Update (2019.02.24)
 + Providing mxnet symbol model  and caffemodel (with convert from mxnet)
@@ -22,11 +27,6 @@ You can easily deploy the model with TVM deep learning framework on Android, iOS
 ### Reference
 
 [chinakook/Mnasnet.MXNet](https://github.com/chinakook/Mnasnet.MXNet)
-
-### Pretrained Model
-
-+ [Caffe](https://pan.baidu.com/s/1FOmVKyiYcNWqkT9X5YcyLQ)
-+ [Mxnet](https://pan.baidu.com/s/1MyZM2VpKMItBFunWMTnt6Q)
 
 ### Related Projects
 
