@@ -19,7 +19,7 @@ This is a Mxnet implementation of Google's MnasNet. For details, please read the
 
 | Network    | Top-1   |   Top-5   |
   :------:   | :----:  |   :-----:  
-| Mnasnet Official    |  74.0%  |   91.78%   |
+| Mnasnet-A1 Official    |  75.2%  |   92.5%   |
 | Mnasnet Ours        |  **73.6%**  |   **91.52%**   |
 
 You can easily deploy the model with TVM deep learning framework on Android, iOS, Linux or Winows etc.
